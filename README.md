@@ -6,7 +6,6 @@ provided code, the robot can easily be expanded upon.
 
 This is the updated version! codename `Mini-Tesla` - it now has a rechargeable Li-ion battery with an On-Off switch. It also now has a light sensor so it can turn off (or reverse) when it gets into dark places such as under beds or tables, and we use the motor shield to save space on the platform.
 
-There's a lot more that this little robot can do, check out the [Exploration](#Exploration) section for more ideas once you have finished off the build.
 
 ![hero](images/hero.jpg)
 
@@ -30,29 +29,6 @@ There's a lot more that this little robot can do, check out the [Exploration](#E
     - [Troubleshooting](#Troubleshooting)
   - [Exploration](#Exploration)
 
-## Bill of Materials
-
-| Qty | Code                                     | Description                 |
-| --- | ---------------------------------------- | --------------------------- |
-| 1   | [XC4410](https://jaycar.com.au/p/XC4410) | UNO board                   |
-| 1   | [XC4442](https://jaycar.com.au/p/XC4442) | Ultrasonic Sensor           |
-| 1   | [KR3160](https://jaycar.com.au/p/KR3160) | 2 wheeled robotic platform  |
-| 1   | [MB3793](https://jaycar.com.au/p/MB3793) | Rechargeable battery pack   |
-| 1   | [XC4472](https://jaycar.com.au/p/XC4472) | Motor Shield for arduino    |
-| 1   | [PP0790](https://jaycar.com.au/p/PP0790) | USB A bare solder plug      |
-| 1   | [WC7756](https://jaycar.com.au/p/WC7756) | USB Micro extension cable   |
-| 1   | [ST0300](https://jaycar.com.au/p/ST0300) | Mini toggle switch          |
-| 1   | [XC4446](https://jaycar.com.au/p/XC4446) | LDR sensor module           |
-| 1   | [HM3211](https://jaycar.com.au/p/HM3211) | Vertical Header 28pin       |
-| 1   | [WC6026](https://jaycar.com.au/p/WC6026) | Socket socket leads 40 pack |
-
-### You might also want
-
-- Some spare wires, [WH3025](https://jaycar.com.au/p/WH3025) is a good choice as it gives you a number of colours, 2 meters in length.
-- Small hot glue gun ([TH1997](https://jaycar.com.au/p/TH1997)) or some extra hot glue ([TH1991](https://jaycar.com.au/p/TH1991))
-- Bootlace crimps, for terminals: [PT4433](https://jaycar.com.au/p/PT4433)
-- Double-sided tape: [NM2821](https://jaycar.com.au/p/NM2821)
-- Extra mounting hardware, such as M3 nuts ([HP0425](https://jaycar.com.au/p/HP0425))
 
 ## Connection Table
 

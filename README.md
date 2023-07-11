@@ -15,6 +15,7 @@ This is the updated version! codename `Mini-Tesla` - it now has a rechargeable L
   - [Table of Contents](#Table-of-Contents)
   - [Bill of Materials](#Bill-of-Materials)
     - [You might also want](#You-might-also-want)
+  - [Where to purchase the Robo Kit](#Where-to-purchase-the-Robo-Kit)
   - [Connection Table](#Connection-Table)
   - [System Overview](#System-Overview)
   - [Assembly](#Assembly)
@@ -27,9 +28,8 @@ This is the updated version! codename `Mini-Tesla` - it now has a rechargeable L
     - [Quick power test](#Quick-power-test)
   - [Programming](#Programming)
     - [Troubleshooting](#Troubleshooting)
-  - [Exploration](#Exploration)
 
-
+## Where to purchase the Robo Kit
 ## Connection Table
 
 The motor controller fits directly on-top of the uno so you don't have to worry about the pinout of the motor connections. The LDR and ultrasonic sensor and  connect into the analogue pins on the motor shield, which don't have headers, but we can just solder them in with the vertical headers.
